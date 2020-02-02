@@ -48,7 +48,7 @@ def total_gross(source)
     end
     return total
 end
-    
+    #dont need to use other method.
   #
   # Should use methods:
   # 1. directors_totals: returns a Hash of { dir_name => gross }
